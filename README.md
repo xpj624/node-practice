@@ -1,4 +1,4 @@
-# 使用 superagent 与 cheerio 完成简单爬虫#
+# 使用 superagent 与 cheerio 完成简单爬虫
 当在浏览器中访问 ``http://localhost:3000/`` 时，输出 CNode(https://cnodejs.org/ ) 社区首页的所有帖子标题和链接，以 json 的形式。
 
 输出示例：
